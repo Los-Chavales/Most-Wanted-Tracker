@@ -1,4 +1,4 @@
-# frontend-proyecto
+# Most Wanted Tracker
 Proyecto de Frontend I
 
 La aplicación es un buscador dirigido a criminales profugos de la ley, al igual que a personas desaparecidas a nivel internacional; la cual consume la api rest pública de la Interpol, al buscar por nombre devuelve la consulta que coincide con los parámetros a buscar, mostrando los siguientes datos de los usuarios:
